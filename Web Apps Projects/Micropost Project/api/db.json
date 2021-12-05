@@ -1,19 +1,19 @@
 {
-    "post": [
-        {
-            "id": 1,
-            "title": "Post One",
-            "body": "This is post one"
-        },
-        {
-            "id": 2,
-            "title": "Post Two",
-            "body": "This is post two"
-        },
-        {
-            "id": 3,
-            "title": "Post Three",
-            "body": "This is post three"
-        }
-    ]
+  "post": [
+    {
+      "title": "Post 1132123",
+      "body": "This is the body\n",
+      "id": 1
+    },
+    {
+      "title": "Post 2 12312312",
+      "body": "This is the body for 2",
+      "id": 2
+    },
+    {
+      "title": "Post Post ",
+      "body": "Post Post Oadsfa",
+      "id": 3
+    }
+  ]
 }
